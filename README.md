@@ -1,5 +1,6 @@
 # Task-Board-Project
  Scrum task board project for companies.
+ (with DevExpress)
 
 ![Screenshot_20](https://user-images.githubusercontent.com/102741640/178153487-6614d523-4c41-498f-93d5-410f5c3f7a16.png)
 
